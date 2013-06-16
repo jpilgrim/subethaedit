@@ -1,0 +1,4 @@
+subethaedit
+===========
+
+Modes for SubEthaEdit
